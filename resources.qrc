@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/header_ico.png</file>
+        <file>resources/buttons_filter/Good_normal.png</file>
+        <file>resources/buttons_filter/Good_Hover.png</file>
+        <file>resources/buttons_filter/Good_Pressed.png</file>
+        <file>resources/buttons_filter/Problem_Pressed.png</file>
+        <file>resources/buttons_filter/No_signal_Pressed.png</file>
+        <file>resources/buttons_filter/No_signal_Hover.png</file>
+        <file>resources/buttons_filter/Danger_Hover.png</file>
+        <file>resources/buttons_filter/Problem_Hover.png</file>
+        <file>resources/buttons_filter/Problem_normal.png</file>
+        <file>resources/buttons_filter/No_signal_normal.png</file>
+        <file>resources/buttons_filter/Danger_normal.png</file>
+        <file>resources/buttons_filter/Danger_Pressed.png</file>
+        <file>resources/flags/ch.png</file>
+        <file>resources/flags/pl.png</file>
+        <file>resources/flags/ua.png</file>
+        <file>resources/buttons/button_pressed.png</file>
+        <file>resources/buttons/button_normal.png</file>
+        <file>resources/buttons/button_hover.png</file>
+        <file>resources/building/floor_plan.png</file>
+        <file>resources/building/escalator_up.png</file>
+        <file>resources/map/marker.png</file>
+        <file>resources/login/input.png</file>
+        <file>resources/buttons_filter/button_all_pressed.png</file>
+        <file>resources/buttons_filter/button_all_normal.png</file>
+        <file>resources/buttons_filter/button_all_hover.png</file>
+        <file>resources/login/warning_input.png</file>
+        <file>resources/login/warning_icon.png</file>
+        <file>resources/login/login_normal_button.png</file>
+        <file>resources/login/login_pressed_button.png</file>
+        <file>resources/login/login_hover_button.png</file>
+        <file>resources/appicon.jpg</file>
+    </qresource>
+</RCC>

@@ -7,6 +7,6 @@ Sample dashboard developed with QML. Login, plots and several screens.
 ## Dashboard screen
 ![alt text](https://github.com/IndeemaSoftware/QDashBoard/blob/Assets/dashvoard.png)
 
-## Map screep
+## Map screen
 ![alt text](https://github.com/IndeemaSoftware/QDashBoard/blob/Assets/maps.png)
 
